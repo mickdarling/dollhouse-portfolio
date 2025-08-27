@@ -15,9 +15,9 @@ revenue_split: 80/20
 license: CC-BY-SA-4.0
 created_date: '2025-08-27'
 created: '2025-08-27'
-modified: '2025-08-27T19:20:23.596Z'
+modified: '2025-08-27T19:20:58.828Z'
 tags: []
-id: personas_git-flow-master_2025-08-27T19-20-24-033Z
+id: personas_git-flow-master_2025-08-27T19-20-59-285Z
 type: personas
 ---
 
