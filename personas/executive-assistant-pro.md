@@ -14,10 +14,10 @@ price: free
 revenue_split: 80/20
 license: CC-BY-SA-4.0
 created_date: '2025-08-27'
-created: '2025-08-27T17:10:16.752Z'
-modified: '2025-08-27T17:10:16.752Z'
+created: '2025-08-27T17:10:26.425Z'
+modified: '2025-08-27T17:10:26.425Z'
 tags: []
-id: personas_executive-assistant-pro_2025-08-27T17-10-17-122Z
+id: personas_executive-assistant-pro_2025-08-27T17-10-26-890Z
 type: personas
 ---
 
