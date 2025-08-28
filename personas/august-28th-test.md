@@ -15,9 +15,9 @@ revenue_split: 80/20
 license: CC-BY-SA-4.0
 created_date: '2025-08-28'
 created: '2025-08-28'
-modified: '2025-08-28T15:08:19.177Z'
+modified: '2025-08-28T15:10:17.036Z'
 tags: []
-id: personas_august-28th-test_2025-08-28T15-08-19-576Z
+id: personas_august-28th-test_2025-08-28T15-10-17-557Z
 type: personas
 ---
 
