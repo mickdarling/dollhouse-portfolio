@@ -10,9 +10,9 @@ usage_count: 0
 variables: []
 version: 1.0.0
 author: mickdarling
-created: '2025-08-29T15:18:16.375Z'
-modified: '2025-08-29T15:18:16.375Z'
-id: templates_screenwriting-suite-10-tv-pilot-template_2025-08-29T15-18-16-593Z
+created: '2025-08-29T15:23:00.565Z'
+modified: '2025-08-29T15:23:00.565Z'
+id: templates_screenwriting-suite-10-tv-pilot-template_2025-08-29T15-23-00-903Z
 type: templates
 ---
 
