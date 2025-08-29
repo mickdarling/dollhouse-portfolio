@@ -15,9 +15,9 @@ revenue_split: 80/20
 license: CC-BY-SA-4.0
 created_date: '2025-08-29'
 created: '2025-08-29'
-modified: '2025-08-29T15:22:34.203Z'
+modified: '2025-08-29T15:24:00.272Z'
 tags: []
-id: personas_screenwriting-suite-02-tv-development-assistant_2025-08-29T15-22-34-484Z
+id: personas_screenwriting-suite-02-tv-development-assistant_2025-08-29T15-24-00-512Z
 type: personas
 ---
 
