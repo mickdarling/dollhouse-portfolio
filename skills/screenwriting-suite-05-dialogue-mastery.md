@@ -18,7 +18,7 @@ parameters: []
 examples: []
 proficiency_level: 0
 author: mickdarling
-id: skills_screenwriting-suite-05-dialogue-mastery_2025-08-29T15-22-44-959Z
+id: skills_screenwriting-suite-05-dialogue-mastery_2025-08-29T15-24-12-956Z
 type: skills
 ---
 
