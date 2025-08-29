@@ -10,9 +10,9 @@ usage_count: 0
 variables: []
 version: 1.0.0
 author: mickdarling
-created: '2025-08-29T15:18:12.289Z'
-modified: '2025-08-29T15:18:12.289Z'
-id: templates_screenwriting-suite-09-pitch-deck-template_2025-08-29T15-18-12-703Z
+created: '2025-08-29T15:22:57.247Z'
+modified: '2025-08-29T15:22:57.247Z'
+id: templates_screenwriting-suite-09-pitch-deck-template_2025-08-29T15-22-57-453Z
 type: templates
 ---
 
