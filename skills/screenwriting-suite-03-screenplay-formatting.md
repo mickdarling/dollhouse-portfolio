@@ -18,7 +18,7 @@ parameters: []
 examples: []
 proficiency_level: 0
 author: mickdarling
-id: skills_screenwriting-suite-03-screenplay-formatting_2025-08-29T15-22-37-969Z
+id: skills_screenwriting-suite-03-screenplay-formatting_2025-08-29T15-24-04-574Z
 type: skills
 ---
 
