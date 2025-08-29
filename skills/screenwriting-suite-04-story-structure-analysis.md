@@ -18,7 +18,7 @@ parameters: []
 examples: []
 proficiency_level: 0
 author: mickdarling
-id: skills_screenwriting-suite-04-story-structure-analysis_2025-08-29T15-22-41-765Z
+id: skills_screenwriting-suite-04-story-structure-analysis_2025-08-29T15-24-08-631Z
 type: skills
 ---
 
