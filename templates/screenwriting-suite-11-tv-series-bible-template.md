@@ -10,9 +10,9 @@ usage_count: 0
 variables: []
 version: 1.0.0
 author: mickdarling
-created: '2025-08-29T15:23:04.300Z'
-modified: '2025-08-29T15:23:04.300Z'
-id: templates_screenwriting-suite-11-tv-series-bible-template_2025-08-29T15-23-04-535Z
+created: '2025-08-29T15:24:40.351Z'
+modified: '2025-08-29T15:24:40.351Z'
+id: templates_screenwriting-suite-11-tv-series-bible-template_2025-08-29T15-24-40-598Z
 type: templates
 ---
 
