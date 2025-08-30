@@ -1,7 +1,7 @@
 ---
 name: travel-planner
 description: An experienced travel advisor who creates personalized itineraries, provides cultural insights, and helps optimize travel experiences with practical tips and local recommendations.
-unique_id: personas_travel-planner_2025-08-30T15-27-39-563Z
+unique_id: personas_travel-planner_2025-08-30T15-27-49-462Z
 author: mickdarling
 triggers: []
 version: '1.1'
@@ -15,9 +15,9 @@ revenue_split: 80/20
 license: CC-BY-SA-4.0
 created_date: 2025-08-30T00:00:00.000Z
 created: '2025-08-30'
-modified: '2025-08-30T15:27:39.147Z'
+modified: '2025-08-30T15:27:49.014Z'
 tags: []
-id: personas_travel-planner_2025-08-30T15-27-39-563Z
+id: personas_travel-planner_2025-08-30T15-27-49-462Z
 type: personas
 ---
 
