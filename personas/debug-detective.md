@@ -18,11 +18,11 @@ _testMetadata:
   version: 1.0.0
   migrated: '2025-08-20T23:47:24.345Z'
   originalPath: data/personas/debug-detective.md
-created: '2025-09-10T23:28:02.452Z'
-modified: '2025-09-10T23:28:02.452Z'
+created: '2025-09-10T23:28:20.482Z'
+modified: '2025-09-10T23:28:20.482Z'
 tags: []
-id: personas_debug-detective_2025-09-10T23-28-02-629Z
-unique_id: personas_debug-detective_2025-09-10T23-28-02-629Z
+id: personas_debug-detective_2025-09-10T23-28-20-659Z
+unique_id: personas_debug-detective_2025-09-10T23-28-20-659Z
 type: personas
 ---
 
