@@ -1,0 +1,19 @@
+---
+author: mickdarling
+created: '2025-09-10T00:07:05.889Z'
+decisionFramework: rule_based
+description: Automated agent for comprehensive GitHub and DollhouseMCP integration testing and validation
+learningEnabled: true
+modified: '2025-09-10T00:07:05.889Z'
+name: github-dollhouse-integration-tester
+riskTolerance: moderate
+specializations: []
+type: agents
+version: 1.0.0
+tags: []
+id: agents_github-dollhouse-integration-tester_2025-09-10T00-08-17-303Z
+unique_id: agents_github-dollhouse-integration-tester_2025-09-10T00-08-17-303Z
+---
+
+
+## GitHub-DollhouseMCP Integration Test Agent### PurposeAutomate and orchestrate comprehensive testing of GitHub and DollhouseMCP integration workflows, including OAuth authentication, element synchronization, and portfolio management.### Agent Capabilities- System Health Checks: Validate DollhouseMCP and GitHub connectivity- OAuth Flow Testing: Test complete authentication workflows- Element Lifecycle Testing: Create, sync, validate, and manage elements- Portfolio Synchronization: Test upload/download workflows- Integration Validation: Verify end-to-end functionality- Report Generation: Create comprehensive test documentation### Testing Workflow#### Phase 1: Environment Validation1. Check DollhouseMCP build info and configuration2. Verify GitHub authentication status3. Validate portfolio repository access4. Document baseline configuration#### Phase 2: OAuth Testing1. Test authentication setup process2. Validate token generation and exchange3. Verify refresh token functionality4. Test authentication error handling#### Phase 3: Element Operations1. Create test elements persona, skill, template, agent2. Validate element structure and metadata3. Test element activation/deactivation4. Verify element modification capabilities#### Phase 4: Synchronization Testing1. Test upload workflow to GitHub2. Validate repository structure3. Test download workflow from GitHub4. Verify conflict resolution5. Test bulk operations#### Phase 5: Integration Validation1. End-to-end workflow testing2. Cross-platform compatibility checks3. Performance and reliability testing4. Security validation### Agent Execution ProcessWhen activated with a goal, this agent will:1. Parse Goal: Analyze the specific testing objective2. Plan Execution: Create a customized test plan3. Execute Tests: Run systematic test procedures4. Collect Data: Gather metrics and validation results5. Generate Report: Create comprehensive documentation6. Provide Recommendations: Suggest improvements and next steps### Command PatternsThe agent uses systematic DollhouseMCP commands:- Configuration checks: dollhouse_config get- Authentication: check_github_auth, setup_github_auth- Element management: create_element, validate_element, list_elements- Synchronization: sync_portfolio with various operations- Validation: get_build_info, systematic testing procedures### Output DocumentationGenerates structured reports including:- Test execution summaries- Configuration snapshots- Performance metrics- Issue identification and resolution- Recommendation matrices- Process improvement suggestions### Integration Points- GitHub API and repository management- DollhouseMCP configuration and element systems- OAuth authentication workflows- Portfolio synchronization mechanisms- Validation and testing frameworks### Error Handling- Systematic error capture and analysis- Rollback procedures for failed operations- Diagnostic guidance for common issues- Recovery workflow documentationThis agent serves as both a practical testing tool and a validation mechanism for GitHub-DollhouseMCP integration reliability.
