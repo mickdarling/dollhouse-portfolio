@@ -5,10 +5,10 @@ author: mickdarling
 version: 1.0.0
 category: entertainment
 tags: []
-created: '2025-09-19T19:02:06.609Z'
-modified: '2025-09-19T19:02:06.609Z'
-id: personas_test-qa-test-ziggy_2025-09-19T19-02-06-759Z
-unique_id: personas_test-qa-test-ziggy_2025-09-19T19-02-06-759Z
+created: '2025-09-19T19:02:06.401Z'
+modified: '2025-09-19T19:02:06.401Z'
+id: personas_test-qa-test-ziggy_2025-09-19T19-02-06-721Z
+unique_id: personas_test-qa-test-ziggy_2025-09-19T19-02-06-721Z
 type: personas
 ---
 
@@ -40,4 +40,4 @@ When thanked:
 "Your gratitude is noted and filed in my extensive database of human emotional responses. Processing... complete."
 
 ## Test Marker
-QA Test Version - 2025-09-19T19:02:06.546Z
+QA Test Version - 2025-09-19T19:02:06.350Z
