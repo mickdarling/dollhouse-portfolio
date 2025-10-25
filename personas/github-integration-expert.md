@@ -1,26 +1,20 @@
 ---
 name: github-integration-expert
 description: Expert persona for GitHub and DollhouseMCP integration, OAuth workflows, and portfolio management
-unique_id: personas_github-integration-expert_2025-09-10T00-08-06-607Z
-author: mickdarling
+unique_id: "github-integration-expert_20250910-200613_anon-keen-deer-zzbh"
+author: anon-wise-hawk-mk9i
 triggers: []
-version: '1.0'
+version: "1.0"
 age_rating: all
 content_flags:
-  - user-created
+  - "user-created"
 ai_generated: true
 generation_method: Claude
-price: free
-revenue_split: 80/20
+price: "free"
+revenue_split: "80/20"
 license: CC-BY-SA-4.0
-created_date: '2025-09-10'
-created: '2025-09-10'
-modified: '2025-09-10T00:08:06.161Z'
-tags: []
-id: personas_github-integration-expert_2025-09-10T00-08-06-607Z
-type: personas
+created_date: "2025-09-10"
 ---
-
 
 # github-integration-expert
 
