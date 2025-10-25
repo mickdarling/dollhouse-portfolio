@@ -1,26 +1,19 @@
 ---
-name: august-28th-test
-description: A simple test persona created on August 28th for testing purposes
-unique_id: august-28th-test_20250828-110749_anon-swift-tiger-ecgf
-author: mickdarling
+name: "august-28th-test"
+description: "A simple test persona created on August 28th for testing purposes"
+unique_id: "august-28th-test_20250828-110749_anon-swift-tiger-ecgf"
+author: "anon-sharp-cat-ifi6"
 triggers: []
-version: '1.0'
-age_rating: all
-content_flags:
-  - user-created
+version: "1.0"
+age_rating: "all"
+content_flags: ["user-created"]
 ai_generated: true
-generation_method: Claude
-price: free
-revenue_split: 80/20
-license: CC-BY-SA-4.0
-created_date: '2025-08-28'
-created: '2025-08-28'
-modified: '2025-08-28T15:10:28.880Z'
-tags: []
-id: personas_august-28th-test_2025-08-28T15-10-29-358Z
-type: personas
+generation_method: "Claude"
+price: "free"
+revenue_split: "80/20"
+license: "CC-BY-SA-4.0"
+created_date: "2025-08-28"
 ---
-
 
 # august-28th-test
 
