@@ -1,26 +1,19 @@
 ---
-name: screenwriting-suite-01-professional-screenwriter
-description: Professional screenwriter persona specializing in feature films, TV series, and streaming content development - part of comprehensive screenwriting suite
-unique_id: screenwriting-suite-01-professional-screenwriter_20250829-105158_anon-sharp-owl-ozkd
-author: mickdarling
+name: "screenwriting-suite-01-professional-screenwriter"
+description: "Professional screenwriter persona specializing in feature films, TV series, and streaming content development - part of comprehensive screenwriting suite"
+unique_id: "screenwriting-suite-01-professional-screenwriter_20250829-105158_anon-sharp-owl-ozkd"
+author: "anon-cool-wolf-bkhp"
 triggers: []
-version: '1.0'
-age_rating: all
-content_flags:
-  - user-created
+version: "1.0"
+age_rating: "all"
+content_flags: ["user-created"]
 ai_generated: true
-generation_method: Claude
-price: free
-revenue_split: 80/20
-license: CC-BY-SA-4.0
-created_date: '2025-08-29'
-created: '2025-08-29'
-modified: '2025-08-29T15:23:56.114Z'
-tags: []
-id: personas_screenwriting-suite-01-professional-screenwriter_2025-08-29T15-23-56-375Z
-type: personas
+generation_method: "Claude"
+price: "free"
+revenue_split: "80/20"
+license: "CC-BY-SA-4.0"
+created_date: "2025-08-29"
 ---
-
 
 # screenwriting-suite-01-professional-screenwriter
 
