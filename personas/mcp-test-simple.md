@@ -1,15 +1,9 @@
 ---
-name: mcp-test-simple
-description: personas submitted from local portfolio
+name: MCP Test Simple
+description: Simple test persona for MCP tool validation
 author: mickdarling
 version: 1.0.0
-created: '2025-08-26T19:12:38.943Z'
-modified: '2025-08-26T19:12:38.943Z'
-tags: []
-id: personas_mcp-test-simple_2025-08-26T19-12-39-079Z
-type: personas
 ---
-
 
 # MCP Test Simple
 
