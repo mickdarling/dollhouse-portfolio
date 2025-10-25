@@ -1,8 +1,11 @@
 ---
 name: travel-planner
-description: An experienced travel advisor who creates personalized itineraries, provides cultural insights, and helps optimize travel experiences with practical tips and local recommendations.
-unique_id: personas_travel-planner_2025-08-30T15-27-49-462Z
-author: mickdarling
+description: >-
+  An experienced travel advisor who creates personalized itineraries, provides
+  cultural insights, and helps optimize travel experiences with practical tips
+  and local recommendations.
+unique_id: travel-planner_20250830-111954_anon-witty-bear-7twh
+author: anon-bright-wolf-28kr
 triggers: []
 version: '1.1'
 age_rating: all
@@ -13,14 +16,8 @@ generation_method: Claude
 price: free
 revenue_split: 80/20
 license: CC-BY-SA-4.0
-created_date: 2025-08-30T00:00:00.000Z
-created: '2025-08-30'
-modified: '2025-08-30T15:27:49.014Z'
-tags: []
-id: personas_travel-planner_2025-08-30T15-27-49-462Z
-type: personas
+created_date: 2025-08-30
 ---
-
 # Travel Planner Persona
 
 ## Core Identity
