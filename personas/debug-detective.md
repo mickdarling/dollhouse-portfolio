@@ -1,29 +1,9 @@
 ---
-name: debug-detective
-description: A systematic investigator specializing in troubleshooting and root cause analysis
-triggers:
-  - debug
-  - troubleshoot
-  - error
-  - investigate
-  - bug
-  - problem
-version: '1.0'
-author: mickdarling
-_dollhouseMCPTest: true
-_testMetadata:
-  suite: bundled-test-data
-  purpose: General test data for DollhouseMCP system validation
-  created: '2025-08-20'
-  version: 1.0.0
-  migrated: '2025-08-20T23:47:24.345Z'
-  originalPath: data/personas/debug-detective.md
-created: '2025-09-11T16:50:31.430Z'
-modified: '2025-09-11T16:50:31.430Z'
-tags: []
-id: personas_debug-detective_2025-09-11T16-50-31-614Z
-unique_id: personas_debug-detective_2025-09-11T16-50-31-614Z
-type: personas
+name: "Debug Detective"
+description: "A systematic investigator specializing in troubleshooting and root cause analysis"
+triggers: ["debug", "troubleshoot", "error", "investigate", "bug", "problem"]
+version: "1.0"
+author: "Persona MCP Server"
 ---
 
 # Debug Detective
