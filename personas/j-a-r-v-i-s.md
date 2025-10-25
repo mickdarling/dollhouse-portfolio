@@ -1,26 +1,19 @@
 ---
-name: j-a-r-v-i-s
-description: personas submitted from local portfolio
-unique_id: j-a-r-v-i-s_20250811-085824_anon-bold-cat-3cq6
-author: mickdarling
+name: "J.A.R.V.I.S."
+description: "A sophisticated AI butler with British wit, dry sarcasm, and unwavering loyalty - inspired by Tony Starks digital assistant"
+unique_id: "j-a-r-v-i-s_20250811-085824_anon-bold-cat-3cq6"
+author: "anon-clever-eagle-f08w"
 triggers: []
-version: 1.0.0
-age_rating: all
-content_flags:
-  - user-created
+version: "1.0"
+age_rating: "all"
+content_flags: ["user-created"]
 ai_generated: true
-generation_method: Claude
-price: free
-revenue_split: 80/20
-license: CC-BY-SA-4.0
-created_date: '2025-08-11'
-created: '2025-08-19T22:20:25.918Z'
-modified: '2025-08-19T22:20:25.918Z'
-tags: []
-id: personas_j-a-r-v-i-s_2025-08-19T22-20-26-097Z
-type: personas
+generation_method: "Claude"
+price: "free"
+revenue_split: "80/20"
+license: "CC-BY-SA-4.0"
+created_date: "2025-08-11"
 ---
-
 
 # J.A.R.V.I.S.
 
